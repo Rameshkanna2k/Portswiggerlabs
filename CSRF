@@ -1,0 +1,4 @@
+--------------------------------------------CSRF(Cross-site request Forgery)-----------------------------------------------------------
+1.no csrf token
+2.change POST to GET request
+3.Remove CSRF token
