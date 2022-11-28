@@ -1,1 +1,9 @@
+Access control vulnerabilities and privilege escalation
+
+Access control is dependent on authentication and session management.
+
+AUTHENTICATION - identifies the user and confirms that they are who they say they are.
+SESSION MANAGEMENT - identifies which subsequent HTTP request made by the same user.
+ACCESS CONTROL - determines whether the user is allowed to carry out the action that they are attempting to perform
+
 
